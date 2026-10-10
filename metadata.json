@@ -1,0 +1,6 @@
+{
+  "name": "KisanDrishti - India Agricultural Weather & Climate Risk Radar",
+  "description": "Zoom Earth style interactive satellite climate radar and agricultural risk advisory panel for Indian farmers with live winds, precipitation overlays, bilingual Hindi and English voice AI crop advisory, and multi-source weather data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
